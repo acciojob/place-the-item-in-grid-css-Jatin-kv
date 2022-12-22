@@ -1,5 +1,10 @@
 .holder{
     display: grid;
     grid-template-columns: repeat(2, 200px);
+    grid-template-rows: repeat(2, 200px);
+}
+.box {
+    background-color: rgba(0, 187, 255, 0.463);
+    border: 1px solid black;
 }
 /* Your CSS Code here. */
